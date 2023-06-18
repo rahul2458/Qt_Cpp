@@ -11,4 +11,4 @@
 ![Login](images/sample4.PNG)
 ![Login](images/sample5.PNG)
 
-####Project can run in both IDE QT & Visual studio
+#### Project can run in both IDE QT & Visual Studio
