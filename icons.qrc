@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>images/icons8_settings_30px.png</file>
+        <file>images/icons8_subtract_50px.png</file>
+        <file>images/browse.png</file>
+        <file>images/camerarotate_bt_d.png</file>
+        <file>images/camerarotate_bt_l.png</file>
+        <file>images/camerarotate_bt_r.png</file>
+        <file>images/camerarotate_bt_u.png</file>
+        <file>images/check1.png</file>
+        <file>images/icons8_down_right_24px.png</file>
+        <file>images/icons8_error_30px.ico</file>
+        <file>images/icons8_ok_24px.png</file>
+        <file>images/notify.PNG</file>
+        <file>images/notify2.PNG</file>
+        <file>images/icons8_Close_24px.png</file>
+        <file>images/check2.png</file>
+    </qresource>
+</RCC>
