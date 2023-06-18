@@ -1,0 +1,4 @@
+﻿  MainWindow.cpp
+D:\vivo_projects\OCR\MainWindow.cpp(119,49): warning C4100: 'checked': unreferenced formal parameter
+D:\vivo_projects\OCR\MainWindow.cpp(164,69): warning C4100: 'arg1': unreferenced formal parameter
+  OCR.vcxproj -> D:\vivo_projects\OCR\debug\OCR.exe
