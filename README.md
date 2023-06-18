@@ -2,4 +2,4 @@
 
 ## Login UI
 
-![Login](images/Capture1.PNG)
+![Login](images/sample1.PNG)
