@@ -1,6 +1,6 @@
 # Qt_Cpp
 
-## Login UI
+## UI
 
 ![Login](images/sample1.PNG)
 
